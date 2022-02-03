@@ -1,0 +1,33 @@
+.link {
+  width: 230px;
+  height: 200px;
+  /* background-color: #191919; */
+  background-image: linear-gradient(#191919, #fc9918);
+  margin-top: 50px;
+  border-radius: 20px;
+  margin-left: 100px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  line-height: 180px;
+}
+.nav {
+  display: flex;
+}
+
+.f {
+  margin-left: 200px;
+}
+/*  */
+
+.search-btn {
+  margin-left: 930px;
+  position: relative;
+  top: -35px;
+}
+
+.delete-btn {
+  position: relative;
+  top: -60px;
+}

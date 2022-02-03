@@ -1,0 +1,23 @@
+.input-fields {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 3px;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid;
+}
+
+.option {
+  width: 270px;
+}
+.search-field {
+  margin-left: 520px;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid;
+}
+.delete {
+  position: relative;
+  left: 850px;
+  top: -40px;
+}
